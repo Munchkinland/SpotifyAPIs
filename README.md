@@ -1,9 +1,12 @@
-
 ## Spotify Data Visualization
+
+![spotify-logo](https://github.com/user-attachments/assets/a5dde1c9-8d6b-45b5-949f-17d30f97491f)
 
 ## Project Description
 
 This project provides a data visualization tool for Spotify's top artists. It fetches data from the Spotify API and displays it in a user-friendly interface. The project is containerized using Docker to ensure a consistent and reproducible environment.
+
+![SPOTIFY](https://github.com/user-attachments/assets/d1e7d982-6737-43d4-90f2-67efc30578ad)
 
 # File Structure
 ✅.cache/: Cache directory used for storing temporary data during the development process.

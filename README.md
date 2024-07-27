@@ -55,13 +55,18 @@ Fetches the top artists from Spotify for a specified market.
 
 # Parameters:
 ✅market (required): The market for which to fetch the top artists.
+
 ✅limit (optional): The number of top artists to fetch. Default is 10.
 
 # Contributing
 ✅Fork the repository.
+
 ✅Create a new branch (git checkout -b feature-branch).
+
 ✅Commit your changes (git commit -m 'Add some feature').
+
 ✅Push to the branch (git push origin feature-branch).
+
 ✅Open a Pull Request.
 
 # License

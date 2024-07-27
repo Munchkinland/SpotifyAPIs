@@ -23,25 +23,24 @@ This project provides a data visualization tool for Spotify's top artists. It fe
 ✅Docker Compose
 
 ## Steps
-# Clone the repository:
 
+✅Clone the repository:
 ✅git clone <repository-url>
 ✅cd <repository-directory>
 ✅Set up environment variables:
-
-# Create a .env file in the root directory and add the necessary configuration variables. Example:
+✅Create a .env file in the root directory and add the necessary configuration variables. Example:
 
 ✅makefile
 
 SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 
-# Build and run the Docker containers:
+✅Build and run the Docker containers:
 
-✅docker-compose up --build
+👉docker-compose up --build
 
 ✅ the application:
-Once the containers are up and running, access the application at http://localhost:5000.
+👉 Once the containers are up and running, access the application at http://localhost:5000 or the port you defined at docker-compose
 
 # Usage
 Fetching Data:
